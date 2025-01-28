@@ -1,4 +1,4 @@
-package main
+package golight_json
 
 import (
 	"encoding/json"
